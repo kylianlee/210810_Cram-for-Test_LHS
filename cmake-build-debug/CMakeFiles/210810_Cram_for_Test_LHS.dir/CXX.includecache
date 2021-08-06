@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kylianlee/CLionProjects/210810_Cram-for-Test_LHS/solution.cpp
+iostream
+-
+vector
+-
+utility
+-
+algorithm
+-
+
